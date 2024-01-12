@@ -13,7 +13,8 @@ public enum ResponseCode {
 
     //
     STUDENT_CODE_NOT_UNIQUE(20001,"Student code existed in system"),
-
+    STUDENT_ID_INCORRECT_FORMAT(20002, "Student id incorrect format"),
+    STUDENT_NOT_FOUND(20003,"Student not found"),
 
     ;
 
