@@ -20,6 +20,7 @@ public class Course {
 
     @Column(name = "code", unique = true)
     private String code;
+
     @Column(name = "name")
     private String name;
 

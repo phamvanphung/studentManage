@@ -7,6 +7,8 @@ import lombok.Getter;
 import lombok.Setter;
 import org.hibernate.annotations.Type;
 
+import java.util.List;
+import java.util.Set;
 import java.util.UUID;
 
 @Entity
